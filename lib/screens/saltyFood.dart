@@ -44,7 +44,7 @@ class Sandwiches extends StatelessWidget {
               //
               Container(
                 margin: EdgeInsets.all(30),
-                  child: Text("TekieDevs", style: TextStyle(color: Colors.white,fontWeight: FontWeight.bold, fontSize: 26 ),
+                  child: Text("AdemNr", style: TextStyle(color: Colors.white,fontWeight: FontWeight.bold, fontSize: 26 ),
                   ),
               ), 
               
